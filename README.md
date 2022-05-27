@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **t2igroup/t2igroup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<center>
+<h3>
+TECNOLOGIA PARA INTERAGIR DIRETAMENTE NO COTIDIANO DAS PESSOAS DE FORMA SIMPLES E OBJETIVA.
+</h3>
+</center>
+
+Somos um grupo de empresas dedicadas a pesquisa avançada e ao desenvolvimento de soluções tecnológicas para diversos segmentos do mercado.
+
+Desde nossa fundação em 1992, nossa vocação tem se demonstrado ser referencia em inovação, agilidade e qualidade técnica, através da busca constante por novas tecnologias, métodos e processos em todo mundo.
+
+O significado do acrônimo T2I vem da nossa filosofia de sempre buscar a integração plena entre tecnologia, inteligência e inovação, que é concretizada em cada novo desafio que assumimos.
